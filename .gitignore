@@ -1,0 +1,6 @@
+# Módulos Node.js
+node_modules/
+
+# Arquivos de configuração de IDE
+.idea/
+.vscode/
